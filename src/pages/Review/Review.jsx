@@ -44,7 +44,7 @@ const Review = () => {
             beans is always top-notch."
           </p>
           <img src={customer2} alt="" className="user" />
-          <h3>Alyx star</h3>
+          <h3>Jennifer</h3>
           <div className="stars">
             <AiOutlineStar size={30} className="i" />
             <AiOutlineStar size={30} className="i" />
@@ -63,7 +63,7 @@ const Review = () => {
             know my favorites for different moods and occasions!"
           </p>
           <img src={customer3} alt="" className="user" />
-          <h3>Jeson smith</h3>
+          <h3>Jordan smith</h3>
           <div className="stars">
             <AiOutlineStar size={30} className="i" />
             <AiOutlineStar size={30} className="i" />
