@@ -1,3 +1,3 @@
-export const API_category = `http://localhost:8080/api/v1/category`;
-export const API_product= `http://localhost:8080/api/v1/product`;
-export const API_auth=`http://localhost:8080/api/v1/auth`;
+export const API_category = `https://backend-17dx.onrender.com/api/v1/category`;
+export const API_product= `https://backend-17dx.onrender.com/api/v1/product`;
+export const API_auth=`https://backend-17dx.onrender.com/api/v1/auth`;
